@@ -1,5 +1,7 @@
 # React spring 2021
 
+# 06.05.2021 - input
+- [Slides](https://drive.google.com/file/d/1XSYWcEeKaG1Pr8_tPWBUyBzRMro-2vb5/view)
 
 # 13.04.2021 - useEffect
   - [Slides](https://drive.google.com/file/d/1sPVnl48lDVpm7Z26-U7DuAPmNJ0S5nf7/view)
